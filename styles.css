@@ -119,6 +119,7 @@ ul li a {
 
 section ul li:hover {
     transform: scale(1.02);
+    background-color: #000fb7;
 }
 
 section ul li {
